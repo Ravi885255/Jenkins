@@ -9,7 +9,7 @@ public class TC_01 {
 	
 	public void browsersetup(String url)
 	{
-		System.setProperty("webdriver.chrome.driver", "Drivers\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\ravindra\\Music\\chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.get(url);
