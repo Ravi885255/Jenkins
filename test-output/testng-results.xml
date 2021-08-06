@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="13056" started-at="2021-08-01T06:53:38Z" finished-at="2021-08-01T06:53:51Z">
+  <suite name="Default suite" duration-ms="39976" started-at="2021-08-06T01:56:45Z" finished-at="2021-08-06T01:57:25Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="13056" started-at="2021-08-01T06:53:38Z" finished-at="2021-08-01T06:53:51Z">
+    <test name="Default test" duration-ms="39976" started-at="2021-08-06T01:56:45Z" finished-at="2021-08-06T01:57:25Z">
       <class name="TestCases.TC_01">
-        <test-method status="PASS" signature="Tc_FbLogin()[pri:0, instance:TestCases.TC_01@724af044]" name="Tc_FbLogin" duration-ms="13020" started-at="2021-08-01T06:53:38Z" finished-at="2021-08-01T06:53:51Z">
+        <test-method status="PASS" signature="Tc_FbLogin()[pri:0, instance:TestCases.TC_01@724af044]" name="Tc_FbLogin" duration-ms="39794" started-at="2021-08-06T01:56:46Z" finished-at="2021-08-06T01:57:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Tc_FbLogin -->
